@@ -1,2 +1,10 @@
 # Simple_Titanic_Analysis
-Analyzing the Titanic dataset using Jupyter Notebooks.
+
+Jupyter notebook performing simples analysis with the Titanic dataset.
+
+Libraries used:
+
+pandas
+numpy
+seaborn
+matplotlib
